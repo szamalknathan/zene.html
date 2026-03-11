@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    color:#5a4535;
+    background-color: rgb(212, 231, 105);
+}
+
+h1{
+    color:rgb(7, 124, 192) ;
+}
+
+nav{
+background-color: rgb(9, 155, 9);
+}
+
+nav a{
+    color: white;
+}
