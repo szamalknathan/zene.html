@@ -9,25 +9,27 @@ body {
 
 h1 {
   color: rgb(7, 124, 192);
+ border-bottom: 2px solid rgb(189, 182, 182);
 }
 
 nav {
   background-color: green;
-  border: 1px solid rgb(11, 210, 245);
+  background-size: cover;
+
 }
 
 nav a {
-  color: white;
+  color: rgb(252, 245, 245);
 }
 
 h2 {
   color: rgb(7, 124, 192);
-  background-color: rgba(190,165,50,0.5);
+  background-color: rgba(196, 171, 61, 0.5);
   border: 1px solid brown;
 }
 
 .szoveg {
-  background-color: #999658;
+  background-color: #c7c381;
 }
 
 header{
@@ -37,3 +39,5 @@ header{
 article{
     border:1px solid gray;
 }
+
+
