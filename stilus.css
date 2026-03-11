@@ -1,20 +1,39 @@
-*{
-    box-sizing: border-box;
+* {
+  box-sizing: border-box;
 }
 
-body{
-    color:#5a4535;
-    background-color: rgb(212, 231, 105);
+body {
+  color: #5a4535;
+  background-color: rgb(212, 231, 105);
 }
 
-h1{
-    color:rgb(7, 124, 192) ;
+h1 {
+  color: rgb(7, 124, 192);
 }
 
-nav{
-background-color: rgb(9, 155, 9);
+nav {
+  background-color: green;
+  border: 1px solid rgb(11, 210, 245);
 }
 
-nav a{
-    color: white;
+nav a {
+  color: white;
+}
+
+h2 {
+  color: rgb(7, 124, 192);
+  background-color: rgba(190,165,50,0.5);
+  border: 1px solid brown;
+}
+
+.szoveg {
+  background-color: #999658;
+}
+
+header{
+    border: 1px solid white;
+}
+
+article{
+    border:1px solid gray;
 }
